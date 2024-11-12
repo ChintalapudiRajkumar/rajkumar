@@ -6,7 +6,7 @@
   <li>Follow me on <a href="https://www.linkedin.com/in/rajkumar-chintalapudi/">LinkedIn</a> to stay updated.</li>
 </ul>
 
-&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&locale=en" alt="ashishps1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+&nbsp;![](https://komarev.com/ghpvc/?username=ChintalapudiRajkumar&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChintalapudiRajkumar&show_icons=true&locale=en" alt="Rajkumar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChintalapudiRajkumar&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
